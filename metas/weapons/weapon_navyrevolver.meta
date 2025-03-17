@@ -86,7 +86,7 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="160.000000" />
+          <Damage value="30.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
@@ -94,10 +94,10 @@
           <NetworkHitLimbsDamageModifier value="0.850000" />
           <LightlyArmouredDamageModifier value="0.750000" />
           <VehicleDamageModifier value="1.000000" />
-          <Force value="150.000000" />
-          <ForceHitPed value="175.000000" />
-          <ForceHitVehicle value="2000.000000" />
-          <ForceHitFlyingHeli value="650.000000" />
+          <Force value="120.000000" />
+          <ForceHitPed value="140.000000" />
+          <ForceHitVehicle value="1600.000000" />
+          <ForceHitFlyingHeli value="520.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -213,8 +213,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="80.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <BulletDirectionPitchOffset value="0.000000" />
           <BulletDirectionPitchHomingOffset value="0.000000" />

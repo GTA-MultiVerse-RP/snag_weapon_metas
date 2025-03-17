@@ -3936,7 +3936,7 @@
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
           <Force value="0.000000" />
-          <ForceHitPed value="150.000000" />
+          <ForceHitPed value="15.000000" />
           <ForceHitVehicle value="0.000000" />
           <ForceHitFlyingHeli value="0.000000" />
           <OverrideForces>
@@ -4565,7 +4565,7 @@
           <AmmoInfo ref="AMMO_PISTOL" />
           <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
           <ClipSize value="12" />
-          <AccuracySpread value="1.500000" />
+          <AccuracySpread value="1.650000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -4580,17 +4580,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="20.000000" />
-          <Damage value="26.000000" />
+          <Damage value="15.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="50.000000" />
-          <ForceHitPed value="125.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="750.000000" />
+          <Force value="40.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="600.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -4632,7 +4632,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -4703,8 +4703,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="80.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -4876,7 +4876,7 @@
           <AmmoInfo ref="AMMO_PISTOL" />
           <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
           <ClipSize value="12" />
-          <AccuracySpread value="1.500000" />
+          <AccuracySpread value="1.650000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -4891,17 +4891,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="20.000000" />
-          <Damage value="27.000000" />
+          <Damage value="15.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="50.000000" />
-          <ForceHitPed value="125.000000" />
-          <ForceHitVehicle value="600.000000" />
-          <ForceHitFlyingHeli value="650.000000" />
+          <Force value="40.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="480.000000" />
+          <ForceHitFlyingHeli value="520.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -4943,7 +4943,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -5014,8 +5014,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="80.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -5178,7 +5178,7 @@
           <AmmoInfo ref="AMMO_PISTOL" />
           <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
           <ClipSize value="18" />
-          <AccuracySpread value="3.000000" />
+          <AccuracySpread value="3.300000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -5193,17 +5193,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="25.000000" />
+          <Damage value="10.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="50.000000" />
-          <ForceHitPed value="100.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="650.000000" />
+          <Force value="40.000000" />
+          <ForceHitPed value="80.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="520.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -5245,7 +5245,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -5316,8 +5316,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="80.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -5489,7 +5489,7 @@
           <AmmoInfo ref="AMMO_PISTOL" />
           <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
           <ClipSize value="9" />
-          <AccuracySpread value="1.000000" />
+          <AccuracySpread value="1.100000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -5504,17 +5504,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="51.000000" />
+          <Damage value="41.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="150.000000" />
-          <ForceHitPed value="175.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="650.000000" />
+          <Force value="120.000000" />
+          <ForceHitPed value="140.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="520.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -5556,7 +5556,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -5627,8 +5627,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -5792,7 +5792,7 @@
           <AmmoInfo ref="AMMO_SMG" />
           <AimingInfo ref="SMG_2H_BASE_STRAFE" />
           <ClipSize value="16" />
-          <AccuracySpread value="4.000000" />
+          <AccuracySpread value="4.800000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -5807,17 +5807,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="21.000000" />
+          <Damage value="16.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="40.000000" />
-          <ForceHitPed value="120.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="750.000000" />
+          <Force value="32.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="600.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -5859,7 +5859,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -5930,8 +5930,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.500000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -6113,7 +6113,7 @@
           <AmmoInfo ref="AMMO_SMG" />
           <AimingInfo ref="RIFLE_LO_BASE_STRAFE" />
           <ClipSize value="30" />
-          <AccuracySpread value="3.500000" />
+          <AccuracySpread value="5.00000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -6128,17 +6128,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="22.000000" />
+          <Damage value="18.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="100.000000" />
-          <ForceHitVehicle value="1100.000000" />
-          <ForceHitFlyingHeli value="750.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="80.000000" />
+          <ForceHitVehicle value="880.000000" />
+          <ForceHitFlyingHeli value="600.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -6438,7 +6438,7 @@
           <AmmoInfo ref="AMMO_SMG" />
           <AimingInfo ref="SMG_2H_BASE_STRAFE" />
           <ClipSize value="30" />
-          <AccuracySpread value="3.000000" />
+          <AccuracySpread value="4.600000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -6453,17 +6453,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="23.000000" />
+          <Damage value="18.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="120.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="750.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="96.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="600.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -6505,7 +6505,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -6576,8 +6576,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.500000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -6750,7 +6750,7 @@
           <AmmoInfo ref="AMMO_RIFLE" />
           <AimingInfo ref="RIFLE_HI_BASE_STRAFE" />
           <ClipSize value="30" />
-          <AccuracySpread value="3.500000" />
+          <AccuracySpread value="3.900000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -6765,17 +6765,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="30.000000" />
+          <Damage value="20.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="140.000000" />
-          <ForceHitVehicle value="1300.000000" />
-          <ForceHitFlyingHeli value="1250.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="112.000000" />
+          <ForceHitVehicle value="1040.000000" />
+          <ForceHitFlyingHeli value="1000.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -6817,7 +6817,7 @@
           <Penetration value="0.100000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -6888,7 +6888,7 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.700000" />
-          <LockOnRange value="65.000000" />
+          <LockOnRange value="52.000000" />
           <WeaponRange value="120.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
@@ -7084,7 +7084,7 @@
           <AmmoInfo ref="AMMO_RIFLE" />
           <AimingInfo ref="RIFLE_LO_BASE_STRAFE" />
           <ClipSize value="30" />
-          <AccuracySpread value="3.000000" />
+          <AccuracySpread value="3.500000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -7099,17 +7099,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="32.000000" />
+          <Damage value="20.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="140.000000" />
-          <ForceHitVehicle value="1200.000000" />
-          <ForceHitFlyingHeli value="1250.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="112.000000" />
+          <ForceHitVehicle value="960.000000" />
+          <ForceHitFlyingHeli value="1000.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -7151,7 +7151,7 @@
           <Penetration value="0.100000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -7222,7 +7222,7 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.700000" />
-          <LockOnRange value="65.000000" />
+          <LockOnRange value="52.000000" />
           <WeaponRange value="120.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
@@ -7422,7 +7422,7 @@
           <AmmoInfo ref="AMMO_RIFLE" />
           <AimingInfo ref="SMG_2H_BASE_STRAFE" />
           <ClipSize value="30" />
-          <AccuracySpread value="2.500000" />
+          <AccuracySpread value="2.750000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -7437,17 +7437,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="34.000000" />
+          <Damage value="27.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="100.000000" />
-          <ForceHitVehicle value="1300.000000" />
-          <ForceHitFlyingHeli value="1250.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="80.000000" />
+          <ForceHitVehicle value="1040.000000" />
+          <ForceHitFlyingHeli value="1000.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -7489,7 +7489,7 @@
           <Penetration value="0.100000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -7560,8 +7560,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.700000" />
-          <LockOnRange value="65.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="52.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -7734,7 +7734,7 @@
           <AmmoInfo ref="AMMO_MG" />
           <AimingInfo ref="MG_LOW_BASE_STRAFE" />
           <ClipSize value="54" />
-          <AccuracySpread value="5.500000" />
+          <AccuracySpread value="6.050000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -7749,17 +7749,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="40.000000" />
+          <Damage value="32.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="150.000000" />
-          <ForceHitVehicle value="2000.000000" />
-          <ForceHitFlyingHeli value="2250.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="120.000000" />
+          <ForceHitVehicle value="1600.000000" />
+          <ForceHitFlyingHeli value="1800.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -7801,7 +7801,7 @@
           <Penetration value="0.100000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -7872,8 +7872,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.700000" />
-          <LockOnRange value="65.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="52.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -8028,7 +8028,7 @@
           <AmmoInfo ref="AMMO_MG" />
           <AimingInfo ref="MG_LOW_BASE_STRAFE" />
           <ClipSize value="100" />
-          <AccuracySpread value="5.000000" />
+          <AccuracySpread value="5.500000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -8043,17 +8043,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="45.000000" />
+          <Damage value="36.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="75.000000" />
-          <ForceHitPed value="150.000000" />
-          <ForceHitVehicle value="2000.000000" />
-          <ForceHitFlyingHeli value="2250.000000" />
+          <Force value="60.000000" />
+          <ForceHitPed value="120.000000" />
+          <ForceHitVehicle value="1600.000000" />
+          <ForceHitFlyingHeli value="1800.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -8095,7 +8095,7 @@
           <Penetration value="0.100000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -8166,8 +8166,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.700000" />
-          <LockOnRange value="65.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="52.000000" />
+          <WeaponRange value="96.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -8340,7 +8340,7 @@
           <AmmoInfo ref="AMMO_SHOTGUN" />
           <AimingInfo ref="RIFLE_LO_PUMP_STRAFE" />
           <ClipSize value="8" />
-          <AccuracySpread value="2.500000" />
+          <AccuracySpread value="2.750000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -8355,17 +8355,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="29.000000" />
+          <Damage value="18.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="1.000000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="14.000000" />
-          <ForceHitPed value="50.000000" />
-          <ForceHitVehicle value="350.000000" />
-          <ForceHitFlyingHeli value="120.000000" />
+          <Force value="11.000000" />
+          <ForceHitPed value="40.000000" />
+          <ForceHitVehicle value="280.000000" />
+          <ForceHitFlyingHeli value="96.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -8397,7 +8397,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="8" />
           <BatchSpread value="0.040000" />
           <ReloadTimeMP value="-1.000000" />
@@ -8463,8 +8463,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="35.000000" />
-          <WeaponRange value="40.000000" />
+          <LockOnRange value="28.000000" />
+          <WeaponRange value="25.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -8641,7 +8641,7 @@
           <AmmoInfo ref="AMMO_SHOTGUN" />
           <AimingInfo ref="RIFLE_LO_PUMP_STRAFE" />
           <ClipSize value="8" />
-          <AccuracySpread value="2.500000" />
+          <AccuracySpread value="2.750000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -8656,17 +8656,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="40.000000" />
+          <Damage value="32.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="14.000000" />
-          <ForceHitPed value="50.000000" />
-          <ForceHitVehicle value="350.000000" />
-          <ForceHitFlyingHeli value="120.000000" />
+          <Force value="11.000000" />
+          <ForceHitPed value="40.000000" />
+          <ForceHitVehicle value="280.000000" />
+          <ForceHitFlyingHeli value="96.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -8698,7 +8698,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="8" />
           <BatchSpread value="0.100000" />
           <ReloadTimeMP value="-1.000000" />
@@ -8764,8 +8764,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="35.000000" />
-          <WeaponRange value="40.000000" />
+          <LockOnRange value="28.000000" />
+          <WeaponRange value="32.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -8906,7 +8906,7 @@
           <AmmoInfo ref="AMMO_SHOTGUN" />
           <AimingInfo ref="RIFLE_LO_BASE_STRAFE" />
           <ClipSize value="8" />
-          <AccuracySpread value="2.500000" />
+          <AccuracySpread value="2.750000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -8921,17 +8921,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="32.000000" />
+          <Damage value="26.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="24.000000" />
-          <ForceHitPed value="50.000000" />
-          <ForceHitVehicle value="520.000000" />
-          <ForceHitFlyingHeli value="440.000000" />
+          <Force value="19.000000" />
+          <ForceHitPed value="40.000000" />
+          <ForceHitVehicle value="416.000000" />
+          <ForceHitFlyingHeli value="352.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -8963,7 +8963,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="6" />
           <BatchSpread value="0.050000" />
           <ReloadTimeMP value="-1.000000" />
@@ -9029,8 +9029,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="35.000000" />
-          <WeaponRange value="40.000000" />
+          <LockOnRange value="28.000000" />
+          <WeaponRange value="32.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -9194,7 +9194,7 @@
           <AmmoInfo ref="AMMO_SHOTGUN" />
           <AimingInfo ref="RIFLE_LO_BASE_STRAFE" />
           <ClipSize value="14" />
-          <AccuracySpread value="2.500000" />
+          <AccuracySpread value="2.750000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -9209,17 +9209,17 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="18.000000" />
-          <Damage value="14.000000" />
+          <Damage value="11.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
           <HitLimbsDamageModifier value="0.500000" />
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
-          <Force value="14.000000" />
-          <ForceHitPed value="30.000000" />
-          <ForceHitVehicle value="350.000000" />
-          <ForceHitFlyingHeli value="14.000000" />
+          <Force value="11.000000" />
+          <ForceHitPed value="24.000000" />
+          <ForceHitVehicle value="280.000000" />
+          <ForceHitFlyingHeli value="11.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -9251,7 +9251,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="8" />
           <BatchSpread value="0.050000" />
           <ReloadTimeMP value="-1.000000" />
@@ -9317,8 +9317,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="1.000000" />
-          <LockOnRange value="35.000000" />
-          <WeaponRange value="40.000000" />
+          <LockOnRange value="28.000000" />
+          <WeaponRange value="32.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <AiSoundRange value="-1.000000" />
           <AiPotentialBlastEventRange value="-1.000000" />
@@ -9701,7 +9701,7 @@
           <AmmoInfo ref="AMMO_SNIPER" />
           <AimingInfo ref="RIFLE_HI_BASE_STRAFE" />
           <ClipSize value="10" />
-          <AccuracySpread value="5.000000" />
+          <AccuracySpread value="5.500000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="0.500000" />
@@ -9971,7 +9971,7 @@
           <AmmoInfo ref="AMMO_SNIPER" />
           <AimingInfo ref="RIFLE_HI_BASE_STRAFE" />
           <ClipSize value="6" />
-          <AccuracySpread value="5.000000" />
+          <AccuracySpread value="5.500000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="0.500000" />

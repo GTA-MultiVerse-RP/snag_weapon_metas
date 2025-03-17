@@ -57,7 +57,7 @@
           <AmmoInfo ref="AMMO_PISTOL" />
           <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
           <ClipSize value="6" />
-          <AccuracySpread value="1.750000" />
+          <AccuracySpread value="1.925000" />
           <AccurateModeAccuracyModifier value="0.500000" />
           <RunAndGunAccuracyModifier value="2.000000" />
           <RunAndGunAccuracyMinOverride value="-1.000000" />
@@ -72,7 +72,7 @@
           <MinHeadShotDistancePlayer value="5.000000" />
           <MaxHeadShotDistancePlayer value="40.000000" />
           <HeadShotDamageModifierPlayer value="20.000000" />
-          <Damage value="30.000000" />
+          <Damage value="18.000000" />
           <DamageTime value="0.000000" />
           <DamageTimeInVehicle value="0.000000" />
           <DamageTimeInVehicleHeadShot value="0.000000" />
@@ -80,10 +80,10 @@
           <NetworkHitLimbsDamageModifier value="0.800000" />
           <LightlyArmouredDamageModifier value="0.750000" />
           <VehicleDamageModifier value="1.000000" />
-          <Force value="50.000000" />
-          <ForceHitPed value="125.000000" />
-          <ForceHitVehicle value="750.000000" />
-          <ForceHitFlyingHeli value="750.000000" />
+          <Force value="40.000000" />
+          <ForceHitPed value="100.000000" />
+          <ForceHitVehicle value="600.000000" />
+          <ForceHitFlyingHeli value="600.000000" />
           <OverrideForces>
             <Item>
               <BoneTag>BONETAG_HEAD</BoneTag>
@@ -125,7 +125,7 @@
           <Penetration value="0.010000" />
           <VerticalLaunchAdjustment value="0.000000" />
           <DropForwardVelocity value="0.000000" />
-          <Speed value="2000.000000" />
+          <Speed value="1800.000000" />
           <BulletsInBatch value="1" />
           <BatchSpread value="0.000000" />
           <ReloadTimeMP value="-1.000000" />
@@ -197,8 +197,8 @@
           <NetworkPlayerDamageModifier value="1.000000" />
           <NetworkPedDamageModifier value="1.000000" />
           <NetworkHeadShotPlayerDamageModifier value="2.000000" />
-          <LockOnRange value="55.000000" />
-          <WeaponRange value="120.000000" />
+          <LockOnRange value="44.000000" />
+          <WeaponRange value="80.000000" />
           <BulletDirectionOffsetInDegrees value="0.000000" />
           <BulletDirectionPitchOffset value="0.000000" />
           <BulletDirectionPitchHomingOffset value="0.000000" />

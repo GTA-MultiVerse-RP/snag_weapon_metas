@@ -81,7 +81,7 @@
           <LightlyArmouredDamageModifier value="0.750000" />
           <VehicleDamageModifier value="1.000000" />
           <Force value="0.000000" />
-          <ForceHitPed value="110.000000" />
+          <ForceHitPed value="10.000000" />
           <ForceHitVehicle value="0.000000" />
           <ForceHitFlyingHeli value="0.000000" />
           <OverrideForces>
